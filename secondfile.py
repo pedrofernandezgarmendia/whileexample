@@ -19,5 +19,5 @@ print(not 7) #False because 7 is true
 print(1 and 2 and 3) #always last one for and
 print(1 and 0.0 and 4) #the 0.0 is not true
 print(False or 0 or None) #all are false and it chooses none because it's the last one that could've saved it
-print()
+print(1)
 
